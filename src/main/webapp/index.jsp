@@ -1,5 +1,5 @@
 
 
 <html>  
-<h1> uhhujbbhjjk ; WE JUST DONT TRAIN ; WE BUILD PEOPLE; </h1> 
+<h1> MY NAME IS NAVYA I AM LEARNING DEVOPS WITH AWS AT MIND CIRCUIT </h1> 
 </html>
