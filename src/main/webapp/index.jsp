@@ -1,2 +1,1 @@
-my name navya 
-from devops learning
+we build peoples
