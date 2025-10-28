@@ -12,17 +12,17 @@ spec:
      app: facebook
 
   replicas: 2
+
   template: 
    metadata:
       name: fb-pod
       labels:
        app: facebook
        env: lab
-       version: v1_AC
+       version: v2_VC
    spec:
       containers:
         - name: fb-pod-cont
-          image: sravani2310/mcapp:latest
-          ports:
-            - containerPort: 8080
+          image: devopshubg333/batch16d:pythonimg
+
           
